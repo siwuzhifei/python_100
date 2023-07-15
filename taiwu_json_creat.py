@@ -60,34 +60,6 @@ table_column = ",".join(key_type)
 print(f"create table ArmorItem({table_column}) ")
 cursor.execute(f"create table ArmorItem({table_column}); ")
 
-def insertFromDict(table, dict):
-    sql = 'INSERT INTO ' + table
-    sql += ' (' + ', '.join(dict) + ')'
-    sql += ' VALUES (' + ', '.join(map(dictValuePad, dict.values())) + ');'
-    return sql
-
-def dictValuePad(value):
-    if isinstance(value, bool):
-        return "'" + str(value) + "'"
-    elif isinstance(value, int):
-        return str(value)
-    elif isinstance(value, dict):
-        return '0'
-    elif isinstance(value, list):
-        return '0'
-    else:
-        return "'" + str(value) + "'"
-
-
-# step 3 go through all the files, generate a INSERT INTO SQL
-for i in range(len(json_list)):
-    sql = insertFromDict('ArmorItem', json_list[i])
-    print(sql)
-    try:
-        cursor.execute(sql)
-    except:
-        print('something goes wrong!')
-        pass
 
 cursor.close()
 conn.commit()
