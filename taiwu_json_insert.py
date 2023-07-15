@@ -7,7 +7,7 @@ import sqlite3
 
 conn = sqlite3.connect("C:\\Users\\Administrator\\Desktop\\python 100\\taiwu.db")
 cursor = conn.cursor()
-cursor.execute('''DROP TABLE IF EXISTS ArmorItem''')
+
 
 
 # directory containing JSON files
@@ -46,19 +46,7 @@ for i in range(len(json_list)):
 
 
 
-## step 2 base on new_dictionary, generate a CREATE TABLE SQL
 
-key_type = []
-for key, value in new_dictionary.items():
-    if isinstance(value, bool):
-        key_type.append(key+' TEXT')
-    elif isinstance(value, int):
-        key_type.append(key + ' NUMERIC')
-    else:
-        key_type.append(key+' TEXT')
-table_column = ",".join(key_type)
-print(f"create table ArmorItem({table_column}) ")
-cursor.execute(f"create table ArmorItem({table_column}); ")
 
 def insertFromDict(table, dict):
     sql = 'INSERT INTO ' + table
