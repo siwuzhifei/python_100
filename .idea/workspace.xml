@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5813863-e3cd-416c-89a1-b7f66dd3f3b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/D10-calculator/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D11-Blackjack/blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D12-Number-guessing-game/number-guessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D14-higer-lower/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D14-higer-lower/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D14-higer-lower/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D15-coffee-machine1/coffee-machine1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D16-offeemachine/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D16-offeemachine/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D16-offeemachine/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D16-offeemachine/money_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D17-quiz-game-start/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D17-quiz-game-start/datanew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D17-quiz-game-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D17-quiz-game-start/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D17-quiz-game-start/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D18-hirstpainting/draw_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D18-hirstpainting/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D18-hirstpainting/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D18-hirstpainting/ranwalk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D18-hirstpainting/spirograph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D18-hirstpainting/triangle_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19-turtle-race-final/key_listen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19-turtle-race-final/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D20-snake-game-part-1-final/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D20-snake-game-part-1-final/exerse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D20-snake-game-part-1-final/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D20-snake-game-part-1-final/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D21-snake-game-part-2-final/class_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D21-snake-game-part-2-final/class_inheritance_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D21-snake-game-part-2-final/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D21-snake-game-part-2-final/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D21-snake-game-part-2-final/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D21-snake-game-part-2-final/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D22-Solution+-+pong-game-final/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D22-Solution+-+pong-game-final/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D22-Solution+-+pong-game-final/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D22-Solution+-+pong-game-final/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Input/Names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Output/ReadyToSend/letter_for_Aang.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Output/ReadyToSend/letter_for_Appa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Output/ReadyToSend/letter_for_Katara.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Output/ReadyToSend/letter_for_Momo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Output/ReadyToSend/letter_for_Sokka.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Output/ReadyToSend/letter_for_Toph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Output/ReadyToSend/letter_for_Uncle Iroh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/Output/ReadyToSend/letter_for_Zuko.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/Mail Merge Project Start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/._Mail Merge Project Start" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/._Input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/._Output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/._main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/Input/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/Input/._Letters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/Input/._Names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/Input/Letters/._starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/Input/Names/._invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/Output/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/Output/._ReadyToSend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/__MACOSX/Mail Merge Project Start/Output/ReadyToSend/._example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/list_comprehensive_exe3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/list_conp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D24-Mail+Merge+Project+Start/student_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D25_us-states-game-start/d25-csv-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D25_us-states-game-start/d25-pandas-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D25_us-states-game-start/us-states-game-start/50_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D25_us-states-game-start/us-states-game-start/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D25_us-states-game-start/us-states-game-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D26-2-chinaprovince/34_provinces.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D26-2-chinaprovince/750px-China_administrative_claimed_included.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D26-2-chinaprovince/blank_province_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D26-2-chinaprovince/china_province.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D26-2-chinaprovince/xy.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D28-pomodoro-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D28-pomodoro-start/tkinter_widget_demon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D28-pomodoro-start/tkinter_widget_demon2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D28-pomodoro-start/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D32-Birthday+Wisher+start/Birthday Wisher (Day 32) start/datetime_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D32-Birthday+Wisher+start/Birthday Wisher (Day 32) start/monday_motivation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D33-API/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D33-API/sunset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D34quizzler-app-start/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D35-rain-alert-end/D35-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D4-random/rock-paper-scisssors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D7-Hangman/hangman_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D7-Hangman/hangman_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D7-Hangman/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D8-caesar-cipher/caesar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D8-caesar-cipher/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D9-Secret-auction/dictionary-adding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D9-Secret-auction/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D9-Secret-auction/student_score_grade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codegym_01/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codegym_01/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codegym_01/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codegym_01/Iris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codegym_01/MSN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codegym_01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codegym_01/dining_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codegym_01/drinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directory_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqldemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taiwu_json.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28NmlJ7mJs4WCn3g6htZITR0q0E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master",
+    "ignore_missing_gitignore": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\python 100\D25_us-states-game-start" />
+      <recent name="C:\Users\Administrator\Desktop\python 100\pdfs" />
+      <recent name="C:\Users\Administrator\Desktop\python 100\zips" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.taiwu_json_creat">
+    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python 100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codegym_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codegym_01/02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python 100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codegym_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codegym_01/03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="directory_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python 100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/directory_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drinks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python 100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codegym_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codegym_01/drinks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python 100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D34quizzler-app-start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D34quizzler-app-start/exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="taiwu_json_creat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python 100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\python 100\taiwu_json_creat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.taiwu_json_creat" />
+        <item itemvalue="Python.directory_test" />
+        <item itemvalue="Python.drinks" />
+        <item itemvalue="Python.03" />
+        <item itemvalue="Python.02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5813863-e3cd-416c-89a1-b7f66dd3f3b8" name="Changes" comment="" />
+      <created>1651065566820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651065566820</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/D29-password-manager-start/main.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
