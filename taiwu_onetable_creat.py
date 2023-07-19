@@ -15,7 +15,7 @@ dir_path = 'C:/Users/Administrator/Desktop/sql/taiwuDataDump/ArmorItem'
 
 # list of JSON files in directory
 json_files = [pos_json for pos_json in os.listdir(dir_path) if pos_json.endswith('.json')]
-print(json_files)
+# print(json_files)
 
 # loop through JSON files and load them into Python dictionaries
 json_list = []
@@ -31,7 +31,7 @@ for file in json_files:
     process_one_file(file)
 
 
-#  step1 go through all the files and find out all keywords
+#  step1 go through all the files and find out all unique keywords
 
 keywords=[]
 new_dictionary = {}
