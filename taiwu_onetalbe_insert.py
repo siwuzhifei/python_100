@@ -1,11 +1,10 @@
 import json
 import os
-import pandas as pd
 import sqlite3
 
 # connect database
 
-conn = sqlite3.connect("C:\\Users\\Administrator\\Desktop\\python 100\\taiwu.db")
+conn = sqlite3.connect("taiwu.db")
 cursor = conn.cursor()
 
 
