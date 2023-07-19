@@ -12,9 +12,18 @@ def process_one_file(file):
 
 def insertFromDict(table, dict):
     sql = 'INSERT INTO ' + table
-    sql += ' (' + ', '.join(dict) + ')'
+    sql += ' (' + ', '.join(escapeDictKey(dict)) + ')'
     sql += ' VALUES (' + ', '.join(map(dictValuePad, dict.values())) + ');'
     return sql
+
+
+def escapeDictKey(dict):
+    new_dict = {}
+    for key, value in dict.items():
+        key = '"' + key + '"'
+        new_dict[key] = value
+    return new_dict
+
 
 def dictValuePad(value):
     if isinstance(value, bool):
@@ -22,9 +31,9 @@ def dictValuePad(value):
     elif isinstance(value, int):
         return str(value)
     elif isinstance(value, dict):
-        return '0'
+        return "\"" + str(value) + "\""
     elif isinstance(value, list):
-        return '0'
+        return "\"" + str(value) + "\""
     else:
         return "'" + str(value) + "'"
 

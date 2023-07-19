@@ -30,11 +30,9 @@ for tab in directories:
     #  step1 go through all the files and find out all keywords
     for i in range(len(json_list)):
         for key, value in json_list[i].items():
-            if key == "Group":
-                key = "Group2"
-            elif key not in keywords:
-                keywords.append(key)
-                new_dictionary[key] = value
+            key = '"'+ key+'"'
+            keywords.append(key)
+            new_dictionary[key] = value
     ## step 2 base on new_dictionary, generate a CREATE TABLE SQL
     key_type = []
     for key, value in new_dictionary.items():
