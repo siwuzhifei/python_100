@@ -2,6 +2,7 @@ Create database MedicalPractice
 Go
 Use MedicalPractice
 
+-- this is how we create a table
 Create table Patient
 (
     Patient_ID int primary key,
